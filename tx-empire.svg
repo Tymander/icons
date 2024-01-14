@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="tx-empire.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.1890995"
+     inkscape:cx="280.04385"
+     inkscape:cy="257.75808"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="display:inline"
+       d="M 273.53984 -94.155687 C 269.92484 -90.540691 267.69516 -85.539735 267.69516 -79.999741 L 267.69516 79.999741 C 267.69516 91.07973 276.6158 100.00037 287.69579 100.00037 L 447.69527 100.00037 C 458.77526 100.00037 467.69589 91.07973 467.69589 79.999741 L 467.69589 -79.999741 C 467.69589 -91.07973 458.77526 -100.00037 447.69527 -100.00037 L 287.69579 -100.00037 C 282.15579 -100.00037 277.15484 -97.770684 273.53984 -94.155687 z M 325.26912 -42.426407 A 60 60 0 0 1 410.12193 -42.426407 A 60 60 0 0 1 410.12193 42.426407 A 60 60 0 0 1 325.26912 42.426407 A 60 60 0 0 1 325.26912 -42.426407 z "
+       transform="rotate(45)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2" />
+</svg>
